@@ -1,0 +1,30 @@
+{
+  "name": "winston-pusher",
+  "version": "1.0.0",
+  "description": "A Pusher Transport for Winston",
+  "main": "index.js",
+  "keywords": [
+    "winston",
+    "pusher",
+    "logger",
+    "log",
+    "logging",
+    "transport"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/meletisf/winston-pusher.git"
+  },
+  "bugs": {
+    "url": "https://github.com/meletisf/winston-pusher/issues"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Meletios Flevarakis <m.flevarakis@acg.edu> (https://meletisf.me)",
+  "license": "MIT",
+  "dependencies": {
+    "pusher": "^1.5.1",
+    "winston": "^2.3.1"
+  }
+}
